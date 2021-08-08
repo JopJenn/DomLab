@@ -1,0 +1,30 @@
+
+p {
+    color: #331725;
+    display:flex;
+    justify-content: left;  
+    
+    align-self: center;
+}
+#cola, #peanuts, #chocolate, #gummies {
+    background-color: #0fbaa9;
+    color: #331725;
+    font-family: Garamond, serif;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 12px;
+    justify-content: center;
+    flex-direction:column;
+    
+}
+
+/* #btn, #btn1 {
+    display: inline-block;
+    padding: 12px;
+    
+}
+
+#btn2, #btn3 {
+    display: inline-block;
+    padding: 12px;
+} */
